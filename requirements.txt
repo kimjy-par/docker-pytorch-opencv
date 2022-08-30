@@ -1,0 +1,5 @@
+numpy==1.19.4
+timm==0.5.4
+torchinfo==1.6.5
+boto3==1.21.36
+requests==2.27.1
